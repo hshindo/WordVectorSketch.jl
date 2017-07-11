@@ -1,1 +1,1 @@
-# WordVectorSketching.jl
+# WordVectorSketch.jl
